@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33691'
     url: http://www.gutenberg.org/2009/agents/33691
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29086#The-Mushroom-Edible-and-OtherwiseIts-Habitat-and-its-Time-of-Growth
 gutenberg_bookshelf: Mycology
 gutenberg_issued: '2009-06-10'
 gutenberg_type: Text
